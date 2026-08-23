@@ -1,0 +1,33 @@
+# Visual Studio / Rider files
+.vs/
+.vscode/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine generated/intermediate folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vsconfig
+
+# Compiled source files
+*.pyc
+
+# Rider
+.idea/
+
+# Plugin intermediate/binaries (keep plugin source, ignore build output)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Mac/Linux
+.DS_Store
+
+# Packaged builds (don't commit shipped builds)
+Builds/
