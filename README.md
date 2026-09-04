@@ -1,4 +1,4 @@
-NOTE:
+IMPORTANT NOTE:
 ----------------------------------------------
 In the event that the project ZIP folder presents any issues or errors, kindly clone the repository to access the complete project files for marking. 
 
