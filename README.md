@@ -1,6 +1,6 @@
 NOTE:
 ----------------------------------------------
-In event of the project zip folder presenting any issue or errors, kindly clone the repository to access the complete project files for marking. 
+In event of the project zip folder presenting any issues or errors, kindly clone the repository to access the complete project files for marking. 
 
 REFERENCE LIST:
 ----------------------------------------------
