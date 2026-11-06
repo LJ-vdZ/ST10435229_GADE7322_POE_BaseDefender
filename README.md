@@ -12,6 +12,9 @@ EDMINchi, 2026. Watch Tower. [electronic asset] Available at: < https://sketchfa
 
 f3nix, 2019. Sci-fi low poly drone. [electronic asset] Available at: < https://sketchfab.com/3d-models/sci-fi-low-poly-drone-b984dfc599e74a088194a2a749236e9b >[Accessed 30 October 2026].
 
+freesound_community, 2022. BubbleBeam. [sound recording]. Available at: < https://pixabay.com/sound-effects/film-special-effects-bubblebeam-41985/  >[Accessed 05 November 2026].
+
+freesound_community, 2022. Setting Drink Down 2. [sound recording]. Available at: < https://pixabay.com/sound-effects/household-setting-drink-down-2-106992/ >[Accessed 05 November 2026].
 
 Hephaestus Studio, 2020. MH-6 Little Bird Helicopter Animated. [electronic asset] Available at: < https://www.fab.com/listings/7a886b27-287f-44be-9e77-1450cae1a445 >[Accessed 20 September 2026].
 
@@ -29,8 +32,13 @@ Synty, [s.a.]. POLYGON - Battle Royale Pack. [electronic asset] Available at: < 
 
 UNDERKING, 2026. [CR] [LQ] Modular 005 MilitaryA07. [electronic asset] Available at: < https://www.fab.com/listings/1e5de7a8-0cd7-43a6-ba95-7f36cbefbb96?tab=reviews > [Accessed 30 October 2026].
 
+Universfield, 2023. Click Button. [sound recording]. Available at: < https://pixabay.com/sound-effects/film-special-effects-click-button-140881/ >[Accessed 05 November 2026].
+
 Universfield, 2025. Computer Mouse Click 02. [sound recording]. Available at: < https://pixabay.com/sound-effects/film-special-effects-computer-mouse-click-02-383961/ >[Accessed 05 November 2026].
 
 Universfield, 2025. Epic Cinematic Explosion. [sound recording]. Available at: < https://pixabay.com/sound-effects/epic-cinematic-explosion-454857/ >[Accessed 05 November 2026].
 
 van der Zee, L.A., 2026. lowpolyFlyingBird_withAnim. [Personal asset]. Johannesburg: Unpublished.
+
+Yodguard, 2026. Short energy beam shot (3). [sound recording]. Available at: < https://pixabay.com/sound-effects/film-special-effects-short-energy-beam-shot-3-482517/ >[Accessed 05 November 2026].
+
