@@ -4,6 +4,8 @@ In the event that the project ZIP folder presents any issues or errors, kindly c
 
 REFERENCE LIST:
 ----------------------------------------------
+ChatGPT, 2026. Coastal Low-Poly Military Base. [electronic print] Available at: < https://chatgpt.com/s/m_6aeddbc51a008191a47f3b70f6acadc9 >[Accessed 06 November 2026].
+
 Christian4100, 2021. Watch Tower Low Poly. [electronic asset] Available at: < https://sketchfab.com/3d-models/watch-tower-low-poly-4a05ef56908349e58d20611273598307 > [Accessed 30 October 2026].
 
 DennisH18, 2022. Machine Gun. [sound recording]. Available at: < https://pixabay.com/sound-effects/film-special-effects-machine-gun-129928/ >[Accessed 05 November 2026].
@@ -41,4 +43,37 @@ Universfield, 2025. Epic Cinematic Explosion. [sound recording]. Available at: <
 van der Zee, L.A., 2026. lowpolyFlyingBird_withAnim. [Personal asset]. Johannesburg: Unpublished.
 
 Yodguard, 2026. Short energy beam shot (3). [sound recording]. Available at: < https://pixabay.com/sound-effects/film-special-effects-short-energy-beam-shot-3-482517/ >[Accessed 05 November 2026].
+
+
+Annexure:
+----------------------------------------------
+### Disclosure of AI Usage in assignment
+
+#### Section within the document/project where generative AI was used:
+- Main Menu
+
+#### Purpose/intention behind use:
+- Main Menu Background
+
+#### Date(s) in which generative AI was used:
+- 06 November 2026
+
+#### Name of AI tool used:
+- ChatGPT
+
+#### Evidence of AI usage:
+- Hi! can you take this image as inspiration and make a main menu background image for a game with a similer areal view and style? (no text, no buttons). > make it more like the example. > make it more like the attach image.
+
+<img width="80%" alt="4b83d792-36ce-4065-bd66-d59eddb2070c" src="https://github.com/user-attachments/assets/18278d6e-9b8f-4818-ad26-f4ebbdd0f3e6" />
+
+
+
+<img width="80%" alt="417f7e9f-2979-46bd-a4f7-b0c33720324a" src="https://github.com/user-attachments/assets/fc28f6a0-e2ed-484f-84a5-31ae55a01305" />
+
+
+
+<img width="80%" alt="2091e4e9-7ef2-4ce1-b87f-8fa4a4fbcb1c" src="https://github.com/user-attachments/assets/afe91d8e-86b8-4e95-8b3d-147cefbb54a1" />
+
+
+
 
